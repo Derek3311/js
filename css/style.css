@@ -1,0 +1,74 @@
+
+body{
+  margin: 0;
+}
+
+
+li{
+  list-style-type: none;
+
+
+}
+
+hr{
+margin-left: -40px;
+width: 30%;
+
+}
+
+.first-text{
+  font-family:"Anton";
+  font-size: 1.2rem;
+  font-weight: bold;
+  padding: 1%;
+}
+
+h1{
+  margin-left: 20px;
+}
+.top-order{
+  padding-top: 2%;
+}
+
+.js{
+  position: relative;
+  padding: 2%;
+  top: 30px;
+}
+.jw{
+  width: 31.30%;
+}
+
+
+
+.vl{
+  height: 600px;
+  border-left: 2px solid black;
+  position: absolute;
+  left: 29%;
+  top: 19.8%;
+}
+
+
+.footer{
+  position: absolute;
+  text-align: center;
+  right: 30%;
+  top: 20%;
+  left: 15%;
+
+}
+
+
+.the-last-text{
+position: absolute;
+width: 50%;
+right: 15%;
+top: 35%;
+margin-top: 20px;
+}
+
+.font{
+  font-family: "Noto Sans";
+  font-weight: bolder;
+}
